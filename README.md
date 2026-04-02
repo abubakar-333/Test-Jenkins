@@ -3,4 +3,4 @@ Testing jenkins pipelines
 configration test
 running
 test
-run
+run test from local git run
